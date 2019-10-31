@@ -3,3 +3,5 @@ Hello World
 Add some info, here it is.
 Here is some new information, maybe an alternative ending to the story...
 and one other ending, a second edit.
+
+Message on second branch
